@@ -8,12 +8,12 @@ No B2B, conduzo a construção de um hub de integração que conecta revendedore
 
 Minhas responsabilidades executivas incluem:
 
-• Definição da estratégia tecnológica alinhada ao roadmap de negócio
-• Construção e evolução de times de alta performance
-• Governança arquitetural e gestão de risco tecnológico
-• Expansão de Open APIs e integrações estratégicas
-• Gestão de indicadores críticos de disponibilidade, performance e eficiência
-• Interface executiva com stakeholders e áreas estratégicas
+- Definição da estratégia tecnológica alinhada ao roadmap de negócio
+- Construção e evolução de times de alta performance
+- Governança arquitetural e gestão de risco tecnológico
+- Expansão de Open APIs e integrações estratégicas
+- Gestão de indicadores críticos de disponibilidade, performance e eficiência
+- Interface executiva com stakeholders e áreas estratégicas
 
 Acredito que engenharia de excelência é aquela que equilibra velocidade e sustentabilidade, inovação e governança, escala e eficiência financeira.
 
