@@ -1,13 +1,23 @@
-# Hi 👋🏼, I am Lucas Copque.
-I'm 28 years old, from São Paulo and Beni's father.
+Atuo na liderança de Engenharia de Software na Mobiauto, conectando estratégia de negócio, arquitetura tecnológica e execução de alta performance para impulsionar crescimento sustentável.
 
-With more than six years of experience as a software engineer, I currently work as coordinator of 7 development teams at Mobiauto. My goal is to ensure effectiveness, efficiency and excellence throughout the planning and production flow. In addition, I am responsible for defining goals and strategies to reach them, selecting, mentoring and developing people, and contributing to the definition of products.
+Minha trajetória em Tecnologia da Informação evoluiu da base técnica à liderança executiva de engenharia, com foco em transformar tecnologia em ativo estratégico. Hoje, minha atuação está centrada em três pilares: crescimento, eficiência operacional e fortalecimento do ecossistema automotivo brasileiro.
 
-I have extensive experience in software architecture and quality, as well as a solid understanding of integrated processes and project and people management. I am passionate about being in a position to make strategic decisions, aligning goals with a long-term vision.
+No B2C, lidero plataformas digitais de alto volume, onde decisões de arquitetura impactam diretamente receita, aquisição orgânica, conversão e experiência do cliente. Estruturamos ambientes resilientes, escaláveis e orientados a dados para sustentar crescimento com previsibilidade.
 
-My technical expertise spans a variety of technologies that encompass planning, management, development, automation pipelines, monitoring, observability and quality.
+No B2B, conduzo a construção de um hub de integração que conecta revendedores, concessionárias, montadoras e parceiros estratégicos. A plataforma reduz fricções operacionais, aumenta velocidade de venda e amplia inteligência comercial, contribuindo para a digitalização e profissionalização do setor.
 
-I am a results-oriented professional, dedicated and always attentive to market needs and emerging technologies, but I am also meticulous in evaluating the specific needs of each application. With my passion for technology, leadership and education, I seek challenges that allow me to apply my knowledge and drive innovation.
+Minhas responsabilidades executivas incluem:
+
+• Definição da estratégia tecnológica alinhada ao roadmap de negócio
+• Construção e evolução de times de alta performance
+• Governança arquitetural e gestão de risco tecnológico
+• Expansão de Open APIs e integrações estratégicas
+• Gestão de indicadores críticos de disponibilidade, performance e eficiência
+• Interface executiva com stakeholders e áreas estratégicas
+
+Acredito que engenharia de excelência é aquela que equilibra velocidade e sustentabilidade, inovação e governança, escala e eficiência financeira.
+
+Tenho especial interesse em temas como plataformas digitais, ecossistemas integrados, liderança de engenharia, arquitetura orientada a negócios e tecnologia como vantagem competitiva.
 
 &nbsp;
 
